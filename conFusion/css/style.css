@@ -36,3 +36,19 @@ body{
 	padding:50px 0px 0px 0px;
 	z-index:0;
 }
+
+.form-card {
+	border: solid 1px lightgray;
+	border-radius: 3px;
+
+}
+
+.form-header {
+	background-color: #f7bf45;
+	color: white;
+	padding: 8px 0px 8px 12px;
+}
+
+form div {
+	margin: 10px 0px 10px 0;
+}
