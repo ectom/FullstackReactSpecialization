@@ -1,4 +1,4 @@
-Project Title
+Project Title: Trendz
 1. Introduction
 A brief introduction to your website idea. State the goals of the project.
 The values / benefits (tangible and intangible) this application can bring to a company/organization/end-user.
